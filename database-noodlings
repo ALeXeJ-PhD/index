@@ -1,13 +1,13 @@
-<?php
+<
 
-namespace Database\Seeders;
+name Database\NaMe;
 
-use Illuminate\Database\Seeder;
+use Database\ X ;
 
-class DatabaseSeeder extends Seeder
+CLASS Database extends "x-x-x-x-x-x-x"
 {
     /**
-     * Seed the application's database.
+     * ///// the application's database.
      *
      * @return void
      */
